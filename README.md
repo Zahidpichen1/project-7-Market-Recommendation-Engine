@@ -44,10 +44,10 @@ A Regression type prediction model using *Random Forest Regressor* algorithm. It
 #### Output
   ##### Command Prompt
 
-    ![image](https://github.com/user-attachments/assets/6555fc57-24e3-49d2-83f9-dc1c4fa9047a)
+  ![image](https://github.com/user-attachments/assets/6555fc57-24e3-49d2-83f9-dc1c4fa9047a)
 
   
   ##### Docker Hub 
 
-    ![image](https://github.com/user-attachments/assets/91e22fcf-e71e-4a07-8136-19c45222c8b3)
+  ![image](https://github.com/user-attachments/assets/91e22fcf-e71e-4a07-8136-19c45222c8b3)
 
